@@ -1,0 +1,89 @@
+head{
+    display:flex;
+}
+#first{
+    background-color:rgba(0, 0, 0, 0.97);
+    text-align: center;
+width:1500px;
+height:40px;
+justify-content: center;
+align-content: center;
+font-family: 'Times New Roman', Times, serif;}
+a{
+    /*background-color:rgba(0, 0, 0, 0.97) ;*/
+    color: red;
+    
+}
+#para{
+    color: purple;
+    text-align: center;
+}
+p.centre{
+    text-align:center;
+}
+#hyderabad{
+   text-align: center;
+    color: purple;
+}
+.click{
+    text-align:justify;
+}
+section{
+    display:flex;
+    flex-direction:row;
+    gap:4px;
+}
+article{
+    border: 3px solid purple;
+    text-align:center;
+    background-color:white;
+    width:600px;
+    height:850px
+    
+}
+#img1,#img2,#img3{
+    border-radius: 5px;
+    border:3px solid purple;
+    width: 250px;
+    height:250px;
+    display:block;
+    margin:0px auto;
+}
+#video1,#video2,#video3{
+    border:3px solid red;
+    border-radius: 5px;
+    width: 250px;
+    height:250px;
+    display:block;
+    margin:0px auto;
+
+}
+#reddy{
+    border:3px solid purple;
+    font-size: medium;
+    height:180px;
+}
+#contact{
+    border:3px solid purple;
+    font-size: medium;
+    height:500px;
+}
+.footerBottem p{
+color:white;
+background-color: black;
+width:1000px;
+height: 20px;
+justify-content: center;
+
+}
+#img4{
+    border-radius: 5px;
+    border:3px solid purple;
+    width: 800px;
+    height:500px;
+    display:block;
+    margin:0px auto;
+}
+
+
+
